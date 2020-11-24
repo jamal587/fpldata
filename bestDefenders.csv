@@ -1,0 +1,42 @@
+﻿assists,bonus,bps,clean_sheets,code,creativity,element_type,first_name,goals_conceded,goals_scored,ict_index,id,influence,minutes,now_cost,own_goals,penalties_missed,penalties_saved,photo,points_per_game,red_cards,saves,second_name,selected_by_percent,special,squad_number,status,team,team_code,threat,total_points,value_season,web_name,yellow_cards,season,team_position
+12,29,906,21,122798,767.2,DEF,Andrew,20,0,183.6,247,748.8,3216,67,0,0,0,122798.jpg,5.9,0,0,Robertson,33,FALSE,26,a,Liverpool,14,318,213,31.8,Robertson,4,18-19,2
+15,24,904,14,169187,1380.3,DEF,Trent,32,4,282.8,182,1026.8,3173,77,0,0,0,169187.jpg,5.5,0,0,Alexander-Arnold,39.1,FALSE,None,a,Liverpool,14,420,210,27.3,Alexander-Arnold,5,19-20,1
+4,22,932,20,97032,111.1,DEF,Virgil,22,4,156.1,246,993.6,3384,67,0,0,0,97032.jpg,5.5,0,0,van Dijk,32.3,FALSE,4,a,Liverpool,14,455,208,31,van Dijk,1,18-19,2
+13,25,753,16,169187,837.4,DEF,Trent,14,1,184.7,245,734.4,2460,58,0,0,0,169187.jpg,6.4,0,0,Alexander-Arnold,26.9,FALSE,66,a,Liverpool,14,276,185,31.9,Alexander-Arnold,3,18-19,2
+12,20,847,13,122798,980.2,DEF,Andrew,31,2,221.7,181,845.8,3111,70,0,0,0,122798.jpg,5,0,0,Robertson,18.1,FALSE,None,a,Liverpool,14,389,181,25.9,Robertson,2,19-20,1
+0,15,778,17,19419,100.8,DEF,Gary,29,6,133.3,78,831.6,3296,67,1,0,0,19419.jpg,4.8,0,0,Cahill,15.3,FALSE,24,a,Chelsea,8,400,178,26.6,Cahill,5,16-17,1
+2,14,804,15,97032,152.4,DEF,Virgil,33,5,154.8,183,930.2,3420,65,0,0,0,97032.jpg,4.7,0,0,van Dijk,42.4,FALSE,None,a,Liverpool,14,467,178,27.4,van Dijk,1,19-20,1
+5,11,675,15,82263,420.4,DEF,Marcos,19,6,157.6,561,618.2,2693,69,0,0,0,82263.jpg,5.7,0,0,Alonso,16,FALSE,3,a,Chelsea,8,536,177,25.7,Alonso,2,16-17,1
+3,16,768,18,146941,239.3,DEF,Aymeric,21,3,131.2,268,790,3056,63,0,0,0,146941.jpg,5.1,0,0,Laporte,16.7,FALSE,14,a,Manchester City,43,278,177,28.1,Laporte,3,18-19,1
+6,25,913,15,41328,535.7,DEF,CÃ©sar,38,2,167.5,97,967.4,3330,69,1,0,0,41328.jpg,4.7,0,0,Azpilicueta,21,FALSE,28,a,Chelsea,8,168,175,25.4,Azpilicueta,1,17-18,5
+5,22,872,16,41328,422.8,DEF,CÃ©sar,33,1,136.8,77,792.8,3420,64,0,0,0,41328.jpg,4.5,0,0,Azpilicueta,18.1,FALSE,28,a,Chelsea,8,150,170,26.6,Azpilicueta,4,16-17,1
+8,15,590,12,87835,340.5,DEF,Matt,31,4,160,401,576.2,2836,65,0,0,0,87835.jpg,4.6,0,0,Doherty,12.7,FALSE,None,a,Wolverhampton Wanderers,39,681,167,25.7,Doherty,1,19-20,7
+2,15,650,13,82263,549.6,DEF,Marcos,30,7,207.1,100,697.8,2855,71,0,0,0,82263.jpg,5,0,0,Alonso,16.2,FALSE,3,a,Chelsea,8,822,165,23.2,Alonso,6,17-18,5
+2,19,794,16,41270,358.7,DEF,David,36,3,158,116,859,3238,58,0,0,0,41270.jpg,4.6,0,0,Luiz Moreira Marinho,11.7,FALSE,30,a,Chelsea,8,363,164,28.3,David Luiz,3,18-19,3
+8,21,702,14,82263,520.1,DEF,Marcos,28,2,161.7,115,619,2759,62,0,0,0,82263.jpg,5.2,0,0,Alonso,22.1,FALSE,3,a,Chelsea,8,475,161,26,Alonso,6,18-19,3
+6,11,822,16,41328,525.1,DEF,CÃ©sar,39,1,163.2,113,815,3402,64,0,0,0,41328.jpg,4.2,0,0,Azpilicueta,9.6,FALSE,28,a,Chelsea,8,286,158,24.7,Azpilicueta,4,18-19,3
+5,22,736,13,101188,1142,DEF,Lucas,38,4,232.7,484,883,2964,54,1,0,0,101188.jpg,4.5,1,0,Digne,10.2,FALSE,12,a,Everton,11,300,158,29.3,Digne,5,18-19,8
+0,21,742,15,57410,224.6,DEF,NicolÃ¡s,25,4,143.7,245,846.6,2966,64,1,0,0,57410.jpg,4.6,0,0,Otamendi,25.8,FALSE,30,a,Manchester City,43,363,156,24.4,Otamendi,9,17-18,1
+1,11,684,18,58621,448.4,DEF,Kyle,17,1,113.1,265,498.8,2776,64,0,0,0,58621.jpg,4.5,0,0,Walker,12.1,FALSE,2,a,Manchester City,43,183,150,23.4,Walker,3,18-19,1
+1,13,660,16,20695,438.5,DEF,Antonio,22,3,125.5,267,559.2,2741,69,0,0,0,20695.jpg,4.7,0,0,Valencia,11.7,FALSE,25,a,Manchester United,1,259,146,21.2,Valencia,7,17-18,2
+8,22,693,10,111931,517.6,DEF,Ricardo Domingos,45,2,183.7,221,889,3123,53,0,0,0,111931.jpg,4.2,0,0,Barbosa Pereira,10.6,FALSE,14,a,Leicester City,13,430,146,27.5,Pereira,7,18-19,9
+7,12,596,8,87835,547.4,DEF,Matt,41,4,201.6,425,758.8,3141,53,1,0,0,87835.jpg,3.8,0,0,Doherty,21.9,FALSE,2,a,Wolverhampton Wanderers,39,711,144,27.2,Doherty,5,18-19,7
+4,15,539,10,153723,382.9,DEF,John,29,5,133.9,297,502.8,2452,46,0,0,0,153723.jpg,4.2,0,0,Lundstram,28.8,FALSE,None,a,Sheffield United,49,449,144,31.3,Lundstram,5,19-20,9
+7,14,615,12,115556,698.8,DEF,Ben,20,2,151,381,610,2323,58,0,0,0,115556.jpg,4.9,0,0,Davies,21.9,FALSE,33,a,Tottenham Hotspur,6,201,143,24.7,Davies,3,17-18,3
+3,14,690,15,17761,167.1,DEF,James,50,2,149.9,84,919.8,3420,55,0,0,0,17761.jpg,3.8,0,0,Tarkowski,9.3,FALSE,None,a,Burnley,90,410,143,26,Tarkowski,10,19-20,10
+6,18,640,14,58621,570.5,DEF,Kyle,21,0,140.2,384,564,2701,62,0,0,0,58621.jpg,4.3,0,0,Walker,27.6,FALSE,2,a,Tottenham Hotspur,6,264,142,22.9,Walker,8,16-17,2
+4,8,639,13,63426,554.5,DEF,Enda,39,2,153.5,291,641,3345,52,0,0,0,63426.jpg,3.7,0,0,Stevens,4.6,FALSE,None,a,Sheffield United,49,338,142,27.3,Stevens,7,19-20,9
+4,7,602,13,82691,485.7,DEF,George,39,2,128.6,294,559.8,3420,50,0,0,0,82691.jpg,3.7,0,0,Baldock,11.6,FALSE,None,a,Sheffield United,49,241,142,28.4,Baldock,7,19-20,9
+2,17,626,12,74230,520.4,DEF,Patrick,46,3,158.7,142,616,3196,55,0,0,0,74230.jpg,3.9,0,0,van Aanholt,5.7,FALSE,3,a,Crystal Palace,31,448,140,25.5,van Aanholt,3,18-19,12
+6,8,691,15,58621,511.4,DEF,Kyle,22,0,117.1,379,542.4,2784,66,1,0,0,58621.jpg,4.3,1,0,Walker,12.3,FALSE,2,a,Manchester City,43,117,138,20.9,Walker,2,17-18,1
+1,13,778,16,39194,205.7,DEF,Jan,31,0,122.7,380,774.4,3203,61,0,0,0,39194.jpg,3.8,0,0,Vertonghen,10.1,FALSE,5,a,Tottenham Hotspur,6,243,138,22.6,Vertonghen,4,17-18,3
+5,15,647,11,12745,695,DEF,Leighton,34,2,141.9,125,570.8,2819,58,0,1,0,12745.jpg,4.2,0,0,Baines,11,FALSE,3,a,Everton,11,151,135,23.3,Baines,4,16-17,7
+3,14,692,10,41320,528.3,DEF,Charlie,53,4,152.9,33,698.2,3060,52,0,0,0,41320.jpg,3.9,0,0,Daniels,9.9,FALSE,11,a,Bournemouth,91,302,134,25.8,Daniels,1,16-17,9
+4,15,548,10,59949,308.9,DEF,Seamus,28,4,120.3,126,596,2316,56,0,0,0,59949.jpg,5.1,0,0,Coleman,4,FALSE,23,i,Everton,11,297,133,23.8,Coleman,3,16-17,7
+1,9,592,13,108416,25.4,DEF,John,33,2,125.4,295,641.4,3187,47,0,0,0,108416.jpg,3.7,1,0,Egan,7.1,FALSE,None,a,Sheffield United,49,587,133,28.3,Egan,3,19-20,9
+1,10,675,15,41270,158.1,DEF,David,26,1,109.1,570,651,2954,62,0,0,0,41270.jpg,4,0,0,Luiz Moreira Marinho,5,FALSE,30,a,Chelsea,8,280,132,21.3,David Luiz,6,16-17,1
+4,11,656,12,98745,561,DEF,HÃ©ctor,44,2,160.1,7,554,3050,59,0,0,0,98745.jpg,3.8,0,0,BellerÃ­n,10.3,FALSE,24,a,Arsenal,3,484,132,22.4,BellerÃ­n,5,17-18,6
+1,14,576,7,19272,74.3,DEF,Gareth,45,6,135.4,436,913.8,3140,50,1,0,0,19272.jpg,3.6,0,0,McAuley,24.7,FALSE,23,a,West Bromwich Albion,35,367,131,26.2,McAuley,5,16-17,10
+6,9,486,11,49013,358.1,DEF,Victor,20,3,125.9,102,417,2109,65,0,0,0,49013.jpg,4.7,0,0,Moses,2.9,FALSE,15,a,Chelsea,8,482,131,20.2,Moses,3,17-18,5
+2,15,604,10,38411,238.7,DEF,Nacho,29,5,124,10,693.6,2241,57,0,0,0,38411.jpg,4.6,0,0,Monreal,8,FALSE,18,a,Arsenal,3,305,130,22.8,Monreal,3,17-18,6
+6,16,700,8,41328,708.7,DEF,CÃ©sar,53,2,205.4,105,905.2,3229,61,0,0,0,41328.jpg,3.6,0,0,Azpilicueta,8.8,FALSE,None,a,Chelsea,8,438,130,21.3,Azpilicueta,1,19-20,4
